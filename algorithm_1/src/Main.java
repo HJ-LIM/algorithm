@@ -17,11 +17,6 @@ public class Main {
 }
 
 class Solution{
-   /*public int[] middle(int[] head){
-
-
-      return new int[]{};
-   }*/
 
    public Node middle(int[] head){
 
